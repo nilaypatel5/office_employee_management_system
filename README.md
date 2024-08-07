@@ -21,5 +21,5 @@ It allows users to view and filter employee details based on various criteria su
 - Git
   
 ### To login the website the default pass :
-  username - admin
-  password - admin
+ - username - admin
+ - password - admin
